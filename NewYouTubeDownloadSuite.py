@@ -179,6 +179,10 @@ def check_and_download(download_type, file_format, selection):
                         downloading = 0
 
                 os.system("cls")
+                if file_format == "Video":
+                    print(f"Successfully downloaded: {yt_obj.title} at " + str(item[2]).strip('res="') + " resolution")
+                else:
+                    print(f"Successfully downloaded: {yt_obj.title}")
                 downloading = 0
 
             # Download playlists

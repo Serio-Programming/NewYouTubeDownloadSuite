@@ -14,6 +14,9 @@ Choose what kind of files you would like to download and then insert the URLs wh
 >WHAT FILES ARE INCLUDED?
 The executable version of this program comes with Python library files and a downloads folder.
 
+>WHAT VERSION
+This is version 1.0.1. It addresses an error that arose from YouTube changing some of its JavaScript in February of 2022.
+
 >ASCII BONSAI TREE FROM THE ARCHIVE:
 
          #o#
