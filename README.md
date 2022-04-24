@@ -1,6 +1,6 @@
 >WHAT IS IT?
 This is a program that allows you to download video and audio files from YouTube videos, playlists, and channels.
-Currently it uses Python version 3.9.5 and Pytube version 11.0.2.
+Currently it uses Python version 3.9.5 and Pytube version 12.0.0.
 
 >WHAT DOES IT DO?
 This program accesses YouTube links given to it and downloads the video or audio from them.
@@ -15,7 +15,8 @@ Choose what kind of files you would like to download and then insert the URLs wh
 The executable version of this program comes with Python library files and a downloads folder.
 
 >WHAT VERSION
-This is version 1.0.1. It addresses an error that arose from YouTube changing some of its JavaScript in February of 2022.
+This is version 1.0.2. It changes a function in Pytube cipher.py so that it can work with YouTube's update.
+Version 1.0.1 addresses an error that arose from YouTube changing some of its JavaScript in February of 2022.
 
 >ASCII BONSAI TREE FROM THE ARCHIVE:
 
