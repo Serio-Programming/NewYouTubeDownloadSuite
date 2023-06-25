@@ -1,3 +1,5 @@
+Important: As of June 24th, 2023 this program will not work, as YouTube has made changes to their site and the Downloader program must be changed to compensate. Your patience is appreciated.
+
 >WHAT IS IT?
 This is a program that allows you to download video and audio files from YouTube videos, playlists, and channels.
 Currently it uses Python version 3.9.5 and Pytube version 12.0.0.
